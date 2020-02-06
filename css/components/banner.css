@@ -1,0 +1,15 @@
+.hero {
+  background-image: url("https://static1.magazine.ribambel.com/articles/8/89/8/@/24373-des-nuages-de-toutes-les-formes-envahiss-article_media_desktop-2.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  margin-top: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+}
+
+.banner-content {
+  margin-top: 50px;
+}

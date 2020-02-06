@@ -1,0 +1,30 @@
+.footer > ul > li > a > i {
+  list-style-type: none;
+  color: blue;
+  font-size: 30px;
+  transition: 1s;
+  display: inline-block;
+  inline-block:center;
+}
+
+.footer > ul > li > a > i:hover {
+  list-style-type: none;
+  color: lightblue;
+  align-items: center;
+  font-size: 60px;
+}
+
+
+.footer > ul {
+  display: flex;
+  list-style-type: none;
+  inline-block:center;
+  justify-content: space-around;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.footer {
+  margin-bottom:50px;
+}
+
